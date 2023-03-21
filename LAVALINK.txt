@@ -1,4 +1,4 @@
-IP: 194.140.198.37
+Host: 194.140.198.37
 Port: 1127
 Password: youshallnotpass
 
